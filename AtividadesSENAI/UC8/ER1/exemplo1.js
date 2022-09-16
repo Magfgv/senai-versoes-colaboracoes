@@ -8,4 +8,10 @@ num1 = 1;
 num2 = 5;
 
 //processamento
-resultado = 
+resultado = num1 + num2;
+
+//saída
+console.log(resultado);
+
+
+

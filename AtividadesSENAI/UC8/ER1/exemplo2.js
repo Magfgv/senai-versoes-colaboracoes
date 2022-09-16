@@ -1,10 +1,10 @@
-//sistema para radar de velocidade
+//sistema para um radar de velocidade
 
 //variaveis
-let velocidade
+let velocidade;
 
 //entrada
-velocidade = 100
+velocidade = 100;
 
 //processamento / saida
 if (velocidade >100){
